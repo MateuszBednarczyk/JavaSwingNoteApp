@@ -53,7 +53,6 @@ public class FormatWindow extends JDialog {
             }
         });
 
-
         this.setContentPane(panel);
         this.setAlwaysOnTop(true);
         this.setSize(300, 400);
