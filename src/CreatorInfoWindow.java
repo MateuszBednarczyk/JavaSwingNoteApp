@@ -12,5 +12,4 @@ public class CreatorInfoWindow extends JDialog {
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         this.setVisible(true);
     }
-
 }

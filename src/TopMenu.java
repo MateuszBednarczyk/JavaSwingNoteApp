@@ -5,6 +5,7 @@ import java.awt.event.ActionListener;
 import java.io.*;
 
 public class TopMenu extends JMenuBar {
+
     public TopMenu(JEditorPane editorPane, Frame frame) {
         JMenu fileMenu = new JMenu("File");
         JMenuItem openItem = new JMenuItem("Open");
